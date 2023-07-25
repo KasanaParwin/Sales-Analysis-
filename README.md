@@ -13,10 +13,10 @@ This Sales Analysis Report is designed to provide in-depth insights into sales p
 
 **Product Category and channel Analysis**: Users can delve deeper into product sales by category and channel, enabling them to identify top-selling product categories and channel and thus gives a picture for area of improvement.
 
-**Data Analysis Techniques:-**
- DATA CLEANING
- DATA PROCESSING
- DATA ANALYSING 
+**Data Analysis Techniques:-** 
+  DATA CLEANING
+  DATA PROCESSING
+  DATA ANALYSING 
 
 
   **V-Fashion Sales Analysis Dashboard - Key Insights**
